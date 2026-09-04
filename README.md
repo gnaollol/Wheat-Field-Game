@@ -1,7 +1,10 @@
-Download both files and run them on any IDE. 
+Hello! This was my final project for CSIT 105. 
 
-The sector is the class file for WheatField.
+To Use:
+* Download both Sector.java & WheatField.java
+* Put them together and run on any IDE
+* Enjoy!
 
-WheatField is the main driver. 
+The sector is a class file while the WheatField is the main driver.
 
-A simple farming game utilizing 2D arrays. 
+This game utilizes 2D arrays to create a simple farming program. 
